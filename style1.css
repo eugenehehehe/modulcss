@@ -1,0 +1,14 @@
+
+div{
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+.bgcolor{background-color: antiquewhite;}
+.bgimage{background-image: url("brick.jpeg");}
+.bgposition{
+    height: 350px;
+    background: url(aerogel.jpg) #f5e4bf no-repeat left; 
+}
+.gradient1{ background:linear-gradient(to right, red, yellow, green);}
+.gradient2{ background: linear-gradient(red, yellow, green);}
